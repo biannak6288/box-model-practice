@@ -8,15 +8,19 @@
 
 #title {
     background: yellow;
-    margin: 40px 60px 40px 60px;
+    margin: 40px 650px 40px 650px;
     padding: 20px 40px 20px 40px;
+    width: 500px;
+    text-align: center;
 }
 
 #subtitle {
     background: black;
     color: white;
-    margin: 40px 60px 40px 60px;
-    padding: 1px 20px 1px 20px;
+    text-align: center;
+    margin: auto;
+    padding: 1px 20px 10px 20px;
+    width: 500px;
     
 }
 
@@ -25,6 +29,9 @@
     margin: 40px 650px 40px 650px;
     padding:1px 10px 1px 10px;
     text-align: center;
+    width: 100px;
+    display: inline-block;
 }
+
 
 
