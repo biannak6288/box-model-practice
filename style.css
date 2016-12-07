@@ -26,11 +26,9 @@
 
 .topic {
     background: lightgray;
-    margin: 40px 650px 40px 650px;
-    padding:1px 10px 1px 10px;
-    text-align: center;
-    width: 100px;
-    display: inline-block;
+    display: inline;
+    margin: 300px 100px 300px 100px;
+    padding: 1px 10px 1px 10px;
 }
 
 
