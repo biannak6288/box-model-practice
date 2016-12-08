@@ -8,18 +8,17 @@
 
 #title {
     background: yellow;
-    margin: 40px 650px 40px 650px;
+    margin: auto;
     padding: 20px 40px 20px 40px;
     width: 500px;
-    text-align: center;
 }
 
 #subtitle {
     background: black;
     color: white;
-    text-align: center;
-    margin: 40px 90px 40px 685px;
-    padding: 1px 20px 10px 20px;
+    margin-top: 50px;
+    margin-left: 420px;
+    padding: 1px 60px 10px 20px;
     width: 500px;
     
     
@@ -27,9 +26,9 @@
 
 .topic {
     background: lightgray;
-    display: inline;
-    margin: 300px 100px;
+    margin: 50px 100px;
     padding: 1px 10px 1px 10px;
+    display: inline-block;
  
 }
 
