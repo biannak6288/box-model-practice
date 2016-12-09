@@ -8,6 +8,7 @@
 
 #title {
     background: yellow;
+    margin-top: 50px;
     margin: auto;
     padding: 20px 40px 20px 40px;
     width: 500px;
@@ -16,8 +17,9 @@
 #subtitle {
     background: black;
     color: white;
+    margin: auto;
     margin-top: 50px;
-    margin-left: 660px;
+    /*margin-left: 660px;*/
     padding: 1px 60px 10px 20px;
     width: 500px;
 }
